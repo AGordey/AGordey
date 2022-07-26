@@ -1,5 +1,5 @@
- <p align="center"> # Hi there, I'm Anrey 👋 </p>
-
+ ## Hi there, I'm Andrey 👋
+ 
  ## About me:
 I am a QA Engineer from <a target="_blank" href="https://wizart.ai/">Wizart</a> for 1 years.<br> 
 I have completed a course on test automation from qaguru( java + selenide)<br> 
