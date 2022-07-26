@@ -1,12 +1,12 @@
  ## Hi there, I'm Andrey 👋
  
  ## About me:
-I am a QA Engineer from <a target="_blank" href="https://wizart.ai/">Wizart</a> for 1 years.<br> 
-I have completed a course on test automation from qaguru( java + selenide)<br> 
-I want to develop in the direction of automation testing.
+**I am a QA Engineer from <a target="_blank" href="https://wizart.ai/">Wizart</a> for 1 years.** <br>
+**I have completed a course on test automation from qaguru (java + selenide)**<br>
+**I want to develop in the direction of automation testing.**
   
-  ## Contact me: 
-  <div id="badges">
+  ## Contact me:
+<div id="badges">
   <a href="https://www.linkedin.com/in/qa-andrei-gordey/">
     <img width="6%" src="image/logo/Linkedin.svg.png" alt="LinkedIn Badge"/>
   </a>
@@ -33,19 +33,19 @@ I want to develop in the direction of automation testing.
 
 
   ## My projects:
-### :star: <a target="_blank" href="https://github.com/lmaslo/FinalProject">UI Autotests</a> for <a target="_blank" href="https://by.wildberries.ru/s"> Wildberries</a> website
+### :star: <a target="_blank" href="https://github.com/AGordey/Diplom_UI_Test_Part_1">UI Autotests</a> for <a target="_blank" href="https://www.21vek.by/"> 21vek.by </a> website
 
-### :star: <a target="_blank" href="https://github.com/lmaslo/FinalProject-API">API Autotests</a> for <a target="_blank" href="https://demoqa.com/">demoqa</a> website
+### :star: <a target="_blank" href="https://github.com/AGordey/Diplom_API_Test_Part_2">API Autotests</a> for <a target="_blank" href="https://reqres.in/">https://reqres.in/ </a> website
 
-### :star: <a target="_blank" href="https://github.com/lmaslo/FinalProject-Mobile">Mobile Autotests</a> for <a target="_blank" href="https://github.com/wikimedia/apps-android-wikipedia/releases/tag/latest">Wikipedia</a> mobile app
-
-
+### :star: <a target="_blank" href="https://github.com/AGordey/Diplom_Mobile_Test_Part_3">Mobile Autotests</a> for <a target="_blank" href="https://play.google.com/store/apps/details?id=com.twentyonevek&hl=ru">app for 21vek.by</a> mobile app on Android
 
 
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lmaslo)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lmaslo) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmaslo)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AGordey)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AGordey) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AGordey)
 ---
