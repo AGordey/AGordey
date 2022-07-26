@@ -1,4 +1,4 @@
-### Hi there 👋
+ <p align="center"> # Hi there, I'm Anrey 👋 </p>
 
  ## About me:
 I am a QA Engineer from <a target="_blank" href="https://wizart.ai/">Wizart</a> for 1 years.<br> 
