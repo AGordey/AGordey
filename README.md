@@ -37,7 +37,7 @@
 
 ### :star: <a target="_blank" href="https://github.com/AGordey/Diplom_API_Test_Part_2">API Autotests</a> for <a target="_blank" href="https://reqres.in/">https://reqres.in/ </a> website
 
-### :star: <a target="_blank" href="https://github.com/AGordey/Diplom_Mobile_Test_Part_3">Mobile Autotests</a> for <a target="_blank" href="https://play.google.com/store/apps/details?id=com.twentyonevek&hl=ru"> for 21vek.by</a> mobile app on Android
+### :star: <a target="_blank" href="https://github.com/AGordey/Diplom_Mobile_Test_Part_3">Mobile Autotests</a> for <a target="_blank" href="https://play.google.com/store/apps/details?id=com.twentyonevek&hl=ru"> 21vek.by</a> mobile app on Android
 
 
 
