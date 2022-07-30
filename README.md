@@ -32,7 +32,7 @@
 </p>
 
 
-  ## My projects:
+  ## My graduation project:
 ### :star: <a target="_blank" href="https://github.com/AGordey/Diplom_UI_Test_Part_1">UI Autotests</a> for <a target="_blank" href="https://www.21vek.by/"> 21vek.by </a> website
 
 ### :star: <a target="_blank" href="https://github.com/AGordey/Diplom_API_Test_Part_2">API Autotests</a> for <a target="_blank" href="https://reqres.in/">https://reqres.in/ </a> website
