@@ -14,7 +14,7 @@
     <img width="6%" src="image/logo/Telegram.svg" alt="Telegram Badge"/>
   </a>
    <a href="mailto:gordey.andrej@gmail.com">
-    <img width="6%" src="image/logo/Telegram.svg" alt="Telegram Badge"/>
+    <img width="6%" src="image/logo/Gmail.svg" alt="Telegram Badge"/>
   </a>
 </div>
   
