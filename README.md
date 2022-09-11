@@ -13,7 +13,7 @@
   <a href="https://t.me/Gordey_Andrei">
     <img width="6%" src="image/logo/Telegram.svg" alt="Telegram Badge"/>
   </a>
-   <a href="gordey.andrej@gmail.com">
+   <a href="mailto:gordey.andrej@gmail.com">
     <img width="6%" src="image/logo/Telegram.svg" alt="Telegram Badge"/>
   </a>
 </div>
