@@ -6,7 +6,7 @@
 **I want to develop in the direction of automation testing.**
   
   ## Contact me:
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/qa-andrei-gordey/">
     <img width="6%" src="image/logo/Linkedin.svg.png" alt="LinkedIn Badge"/>
   </a>
@@ -14,7 +14,7 @@
     <img width="6%" src="image/logo/Telegram.svg" alt="Telegram Badge"/>
   </a>
    <a href="mailto:gordey.andrej@gmail.com">
-    <img width="7%" src="image/logo/Gmail.svg" alt="Telegram Badge"/>
+    <img width="6%" src="image/logo/Gmail.svg" alt="Gmail Badge"/>
   </a>
 </div>
   
