@@ -1,7 +1,7 @@
  ## Hi there, I'm Andrey 👋
  
  ## About me:
-**I am a QA Engineer from <a target="_blank" href="https://wizart.ai/">Wizart</a> for 1,5 years.** <br>
+**I am a QA Engineer from <a target="_blank" href="https://azati.ai/">Azati</a> for 1,5 years.** <br>
 **I have completed a course on test automation from <a target="_blank" href="https://qa.guru/"> QA GURU</a>'22 (java + selenide)**<br>
 **I want to develop in the direction of automation testing.**
   
