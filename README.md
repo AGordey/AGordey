@@ -1,8 +1,8 @@
  ## Hi there, I'm Andrey 👋
  
  ## About me:
-**I am a QA Engineer from  <a target="_blank" href="https://azati.ai/">Azati</a>**<br>
-**I have completed a course on test automation from <a target="_blank" href="https://qa.guru/"> QA GURU</a>'22 (java + selenide)**<br>
+**I'm a QA Engineer from  <a target="_blank" href="https://azati.ai/">Azati</a>**<br>
+**I've completed a course on test automation from <a target="_blank" href="https://qa.guru/"> QA GURU</a>'22 (java + selenide)**<br>
 **I want to develop in the direction of automation testing.**
   
   ## Contact me:
