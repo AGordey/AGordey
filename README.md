@@ -1,9 +1,9 @@
  ## Hi there, I'm Andrey 👋
  
  ## About me:
-**I'm an AQA Engineer**<br>
+**I'm an Full stack QA Engineer**<br>
 **I've completed a course on test automation from <a target="_blank" href="https://qa.guru/"> QA GURU</a>'22 (java + selenide)**<br>
-**I want to develop in the direction of automation testing.**
+**I'm studying a course on test automation advanced 2.0 from <a target="_blank" href="https://qa.guru/"> QA GURU</a>'26 (Java Advanced 2.0)**<br>
   
   ## Contact me:
 <div id="badges" align="center">
